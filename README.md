@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/logo.jpg" alt="Poste Logo">
+  <img src="./logo.jpg" alt="Poste Logo">
 </p>
 # poste
 > Sugira temas que eu possa postar :book: :facepunch: :smiley:
